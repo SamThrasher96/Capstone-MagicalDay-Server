@@ -1,0 +1,167 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "first_name": "Sam",
+            "last_name": "Thrasher",
+            "password": "password",
+            "email": "sam@gmail.com",
+            "is_staff": false
+        }
+    }, 
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "first_name": "Megan",
+            "last_name": "Sargent",
+            "password": "password",
+            "email": "megan@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "first_name": "Emma",
+            "last_name": "Thrasher",
+            "password": "password",
+            "email": "emma@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "first_name": "Coach",
+            "last_name": "Steve",
+            "password": "password",
+            "email": "coach@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+            "first_name": "Elena",
+            "last_name": "Spradlin",
+            "password": "password",
+            "email": "elena@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+            "first_name": "Logan",
+            "last_name": "Welch",
+            "password": "password",
+            "email": "logan@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+            "first_name": "Kelsey",
+            "last_name": "Lemmer",
+            "password": "password",
+            "email": "kelsey@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+            "first_name": "Katie",
+            "last_name": "Zarbock",
+            "password": "password",
+            "email": "katie@gmail.com",
+            "is_staff": true
+        }
+    }, 
+    {
+        "model": "auth.user",
+        "pk": 9,
+        "fields": {
+            "first_name": "Bri",
+            "last_name": "Philips",
+            "password": "password",
+            "email": "bri@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 10,
+        "fields": {
+            "first_name": "Hannah",
+            "last_name": "Estes",
+            "password": "password",
+            "email": "hannah@gmail.com",
+            "is_staff": true
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 11,
+        "fields": {
+            "first_name": "Casey",
+            "last_name": "Ferebee",
+            "password": "password",
+            "email": "casey@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 12,
+        "fields": {
+            "first_name": "Tyler",
+            "last_name": "Estes",
+            "password": "password",
+            "email": "tyler@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 13,
+        "fields": {
+            "first_name": "Hayley",
+            "last_name": "Bland",
+            "password": "password",
+            "email": "hayley@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 14,
+        "fields": {
+            "first_name": "Josh",
+            "last_name": "Bland",
+            "password": "password",
+            "email": "josh@gmail.com",
+            "is_staff": false
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 15,
+        "fields": {
+            "first_name": "Jude",
+            "last_name": "Bland",
+            "password": "password",
+            "email": "jude@gmail.com",
+            "is_staff": false
+        }
+    }
+]

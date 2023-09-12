@@ -1,0 +1,783 @@
+[
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 1,
+        "fields": {
+            "name": "Astro Orbiter",
+            "image": "https://i.imgur.com/ESdyejQ.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Lift off! Hold on tight as your retro 2-passenger spacecraft levitates high into the air, picks up speed and begins orbiting a galaxy of planets while the sights and sounds of Tomorrowland whirl by far below."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 2,
+        "fields": {
+            "name": "The Barnstormer",
+            "image": "https://i.imgur.com/Pd5NE9T.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Take flight above Storybook Circus with Goofy in a homemade stunt airplane for a thrilling junior roller coaster ride."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 3,
+        "fields": {
+            "name": "Big Thunder Mountain Railroad",
+            "image": "https://imgur.com/8PEA6cp",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "The Wildest Ride in the Wilderness! Legend has it that soon after gold was first discovered here in the 1850s, eerie things began to happen. Trains would take off and race through tunnels—by themselves."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 4,
+        "fields": {
+            "name": "Buzz Lightyear's Space Ranger Spin",
+            "image": "https://i.imgur.com/vsWZDbc.jpg",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Fire your laser to earn points and defeat the Evil Emperor Zurg as you journey through a galactic space battle."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 5,
+        "fields": {
+            "name": "Country Bear Jamboree",
+            "image": "https://i.imgur.com/09eHhgr.jpg",
+            "capacity": 380,
+            "opening": "11:00:00",
+            "closing": "20:00:00",
+            "description": "Have a knee-slappin’ good time at this jolly country-and-western musical revue starring a cast of singing bears."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 6,
+        "fields": {
+            "name": "Dumbo the Flying Elephant",
+            "image": "https://i.imgur.com/KVtSMAH.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Soar high in the sky—and see an elephant fly—on a whimsical flight aboard Dumbo."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 7,
+        "fields": {
+            "name": "Enchanted Tales with Belle",
+            "image": "https://i.imgur.com/An9BXrE.jpg",
+            "capacity": 50,
+            "opening_time": "10:30:00",
+            "closing_time": "19:30:00",
+            "description": "Relive the magic of Disney's Beauty and the Beast by taking part in her fairytale—alongside Belle herself!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 8,
+        "fields": {
+            "name": "Disney's Adventure Friends Cavalcade",
+            "image": "https://i.imgur.com/T7nTENB.jpg",
+            "capacity": 5000,
+            "opening_time": "17:10:00",
+            "closing_time": "19:00:00",
+            "description": "See some favorite Disney pals as they make their way through Magic Kingdom park on a grand adventure!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 9,
+        "fields": {
+            "name": "Disney's Festival of Fantasy Parade",
+            "image": "https://i.imgur.com/vxp1GjO.jpg",
+            "capacity": 5000,
+            "opening_time": "12:00:00",
+            "closing_time": "15:00:00",
+            "description": "Celebrate the spirit of Disney as Magic Kingdom park comes alive with music and dance during a tribute to the tales of Fantasyland."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 10,
+        "fields": {
+            "name": "Frontierland Shootin' Arcade",
+            "image": "https://i.imgur.com/uCbpowK.jpg",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Take aim at nearly 100 targets in an Old West-themed shooting gallery."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 11,
+        "fields": {
+            "name": "The Hall of Presidents",
+            "image": "https://i.imgur.com/ByjXkw9.jpg",
+            "capacity": 0,
+            "opening_time": "09:00:00",
+            "closing_time": "21:00:00",
+            "description": "Behold all 45 Presidents of the United States in a stirring show tracing the nation’s history."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 12,
+        "fields": {
+            "name": "Happily Ever After Fireworks Spectacular",
+            "image": "https://i.imgur.com/gjkD3da.jpg",
+            "capacity": 10000,
+            "opening_time": "21:00:00",
+            "closing_time": "21:30:00",
+            "description": "Go on a dazzling journey of color, light and song that captures the heart, humor and heroism of favorite Disney stories. Watch in awe as Cinderella Castle is magically transformed through amazing state-of-the art projection technology you have to see to believe."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 13,
+        "fields": {
+            "name": "Haunted Mansion",
+            "image": "https://i.imgur.com/h2ms3xz.jpg",
+            "capacity": 3,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Climb aboard a gloomy Doom Buggy for a grave journey through a labyrinth of haunted chambers."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 14,
+        "fields": {
+            "name": "It's A Small World",
+            "image": "https://i.imgur.com/EgVUF7X.jpg",
+            "capacity": 12,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Sing along to the classic anthem of world peace during a delightful musical boat tour. Cruise along the Seven Seaways Waterway on a gentle 10-minute journey through all 7 continents. Pass through vivid, fantastical scenes representing the iconic sights and sounds of dozens of nations."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 15,
+        "fields": {
+            "name": "Jungle Cruise",
+            "image": "https://i.imgur.com/xbp59AO.jpg",
+            "capacity": 32,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Chart a course for high adventure on a scenic and comedic boat tour of exotic rivers across Asia, Africa and South America."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 16,
+        "fields": {
+            "name": "Let the Magic Begin",
+            "image": "https://i.imgur.com/CE8eYkX.jpg",
+            "capacity": 5000,
+            "opening_time": "08:55:00",
+            "closing_time": "09:30:00",
+            "description": "Join the opening ceremonies with Mickey Mouse and the gang as they welcome you to The Most Magical Place on Earth!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 17,
+        "fields": {
+            "name": "Liberty Sqare Riverboat",
+            "image": "https://i.imgur.com/1F5XDYY.jpg",
+            "capacity": 450,
+            "opening_time": "11:00:00",
+            "closing_time": "19:00:00",
+            "description": "Cruise the scenic Rivers of America aboard an authentic steam-powered paddle wheeler."
+        }
+    }, 
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 18,
+        "fields": {
+            "name": "Mad Tea Party",
+            "image": "https://i.imgur.com/rj5dTDk.jpg",
+            "capacity": 5,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Pour yourself into an oversized pastel teacup and twirl through a wild wonderland of color and song. As the party gets underway, sail back and forth around a towering teapot as festive music fills the air."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 19,
+        "fields": {
+            "name": "The Magic Carpets of Aladdin",
+            "image": "https://i.imgur.com/uT293Kb.jpg",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "A new fantastic point of view! Climb aboard a colorful, 4-passenger flying “rug” and take off into the air to the soothing sounds of Middle Eastern music. Soar around a giant genie bottle and magic lamp and enjoy a new view of the colorful bazaar below."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 20,
+        "fields": {
+            "name": "Main Street Vehicles",
+            "image": "https://i.imgur.com/CsLg193.jpg",
+            "capacity": 8,
+            "opening_time": "10:00:00",
+            "closing_time": "18:00:00",
+            "description": "Travel back in time during a breezy drive down Main Street, U.S.A. in a charming turn-of-the-century vehicle."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 21,
+        "fields": {
+            "name": "The Many Adventures of Winnie the Pooh",
+            "image": "https://i.imgur.com/JEi4m1N.jpg",
+            "capacity": 6,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Travel through Hundred-Acre Wood in an oversized Hunny Pot and get lost in the pages of A.A. Milne’s classic tales."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 22,
+        "fields": {
+            "name": "Mickey's PhilharMagic",
+            "image": "https://i.imgur.com/RZfBH5B.jpg",
+            "capacity": 486,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Disney magic meets Disney music in this spectacular 12-minute, 3D fantasy adventure starring Donald Duck."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 23,
+        "fields": {
+            "name": "Monsters Inc. Laugh Floor",
+            "image": "https://i.imgur.com/cxxXjLl.jpg",
+            "capacity": 400,
+            "opening_time": "10:00:00",
+            "closing_time": "21:00:00",
+            "description": "Step inside the only laugh factory in Monstropolis and make your way into a comedy club hosted by Monster of Ceremonies Mike Wazowski. These scare-acters love to engage the audience. Don’t be surprised if you become part of the show!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 24,
+        "fields": {
+            "name": "Peter Pan's Flight",
+            "image": "https://i.imgur.com/SXRXcG6.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Embark on a high-flying adventure over iconic scenes made famous in Disney’s animated film."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 25,
+        "fields": {
+            "name": "Pirates of the Caribbean",
+            "image": "https://i.imgur.com/mItjXe9.jpg",
+            "capacity": 24,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Set sail on a swashbuckling voyage to a long-forgotten time and place when pirates and privateers ruled the seas."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 26,
+        "fields": {
+            "name": "Prince Charming Regal Carrousel",
+            "image": "https://i.imgur.com/YBz7tvg.jpg",
+            "capacity": 90,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Ride atop a regal steed and gallop through a whirling backdrop of wondrous color and whimsical music."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 27,
+        "fields": {
+            "name": "Seven Dwarfs Mine Train",
+            "image": "https://i.imgur.com/aecLtpG.jpg",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Race through the diamond mine from Snow White and the Seven Dwarfs on a swaying family coaster ride."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 28,
+        "fields": {
+            "name": "Space Mountain",
+            "image": "https://i.imgur.com/6AG6WXy.jpg",
+            "capacity": 3,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Blast off on a rip-roaring rocket into the furthest reaches of outer space on this roller-coaster ride in the dark."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 29,
+        "fields": {
+            "name": "Tomorrowland Speedway",
+            "image": "https://i.imgur.com/mDP8Cmu.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Put the pedal to the metal in your very own hotrod and cruise along a scenic miniature motorway."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 30,
+        "fields": {
+            "name": "Tomorrowland Transit Authority PeopleMover",
+            "image": "https://i.imgur.com/CyreXCM.png",
+            "capacity": 4,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Embark on a 10-minute tour of Tomorrowland aboard this mass transit system of the future."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 31,
+        "fields": {
+            "name": "TRON Lightcycle / Run",
+            "image": "https://i.imgur.com/nc8lCG0.jpg",
+            "capacity": 14,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Speed across a world with no horizons in a high-stakes race based on the Disney sci-fi film TRON: Legacy."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 32,
+        "fields": {
+            "name": "Under the Sea - Journey of The Little Mermaid",
+            "image": "https://i.imgur.com/098ugTI.jpg",
+            "capacity": 2,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Board a clamshell and become part of Ariel’s world on a musical adventure awash with scenes from the animated classic."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 33,
+        "fields": {
+            "name": "Walt Disney World Railroad",
+            "image": "https://i.imgur.com/r1vMl52.jpg",
+            "capacity": 0,
+            "opening_time": "09:00:00",
+            "closing_time": "19:00:00",
+            "description": "Listen to the clamor of the engine, the chug of the wheels and the call of the whistle as you travel aboard the Walt Disney World Railroad."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 34,
+        "fields": {
+            "name": "Walt Disney's Carousel of Progress",
+            "image": "https://i.imgur.com/bu34Y30.jpg",
+            "capacity": 240,
+            "opening_time": "09:00:00",
+            "closing_time": "21:00:00",
+            "description": "Travel through the 20th century and marvel at the evolution of technology during this classic Audio-Animatronics show."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 35,
+        "fields": {
+            "name": "Walt Disney's Enchanted Tiki Room",
+            "image": "https://i.imgur.com/Og5V8qN.jpg",
+            "capacity": 230,
+            "opening_time": "09:00:00",
+            "closing_time": "22:00:00",
+            "description": "Tropical birds, Tiki gods and colorful flowers come to life in a swinging South Seas musical extravaganza."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 36,
+        "fields": {
+            "name": "Aloha Isle",
+            "image": "https://i.imgur.com/bQEViQv.jpg",
+            "capacity": 50,
+            "opening_time": "10:00:00",
+            "closing_time": "22:00:00",
+            "description": "Dole out a smile with the much sought-after soft-serve delight known as DOLE Whip®—a popular frozen treat blended in pineapple, vanilla or swirled flavors. Frosty floats are also available."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 37,
+        "fields": {
+            "name": "Auntie Gravity's Galactic Goodies",
+            "image": "https://i.imgur.com/R0Dpui6.jpg",
+            "capacity": 40,
+            "opening_time": "10:00:00",
+            "closing_time": "22:00:00",
+            "description": "Come back down to Earth for a sweet treat: soft-serve ice cream, sundaes, floats made with soda, smoothies and fountain soft drinks."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 38,
+        "fields": {
+            "name": "Be Our Guest",
+            "image": "https://i.imgur.com/PRJhzKG.jpg",
+            "capacity": 546,
+            "opening_time": "10:00:00",
+            "closing_time": "22:00:00",
+            "description": "Enter the Beast's enchanted castle for an unforgettable dining experience—bon appétit!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 39,
+        "fields": {
+            "name": "Casey's Corner",
+            "image": "https://i.imgur.com/RTBPKiY.jpg",
+            "capacity": 40,
+            "opening_time": "10:30:00",
+            "closing_time": "22:30:00",
+            "description": "Hit it out of the park with American baseball favorites: hot dogs, corn dog nuggets and French fries. Soft drinks are also available."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 40,
+        "fields": {
+            "name": "Cheshire Café",
+            "image": "https://i.imgur.com/khaLMSq.jpg",
+            "capacity": 20,
+            "opening_time": "09:00:00",
+            "closing_time": "19:00:00",
+            "description": "Put a smile on your face with some refreshments from this fairytale cottage-inspired kiosk."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 41,
+        "fields": {
+            "name": "Cinderella's Royal Table",
+            "image": "https://i.imgur.com/x3aGbfC.png",
+            "capacity": 130,
+            "opening_time": "08:00:00",
+            "closing_time": "17:55:00",
+            "description": "Dine inside Cinderella Castle during this one-of-a-kind Fairytale Dining experience."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 42,
+        "fields": {
+            "name": "Columbia Harbour House",
+            "image": "https://i.imgur.com/yqef0Ib.jpg",
+            "capacity": 100,
+            "opening_time": "11:00:00",
+            "closing_time": "16:45:00",
+            "description": "Reel in delicious seafood, New England-inspired favorites and more as you dine in a cozy, seafaring setting."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 43,
+        "fields": {
+            "name": "Cool Ship",
+            "image": "https://i.imgur.com/lvs6anh.jpg",
+            "capacity": 10,
+            "opening_time": "11:00:00",
+            "closing_time": "18:00:00",
+            "description": "Fuel up at this space-age stand featuring buttery popcorn and fluffy cotton candy. Then, before you blast off again, cool off with a refreshing beverage—like bottled water or a fountain drink."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 44,
+        "fields": {
+            "name": "Cosmic Ray's Starlight Cafe",
+            "image": "https://i.imgur.com/nkGdd55.jpg",
+            "capacity": 250,
+            "opening_time": "10:30:00",
+            "closing_time": "05:45:00",
+            "description": "Explore a galaxy of enticing options from our out-of-this-world bacon cheeseburgers to chicken strips to plant-based burgers. Plus, have a blast enjoying the stellar musical entertainment of Sonny Eclipse!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 45,
+        "fields": {
+            "name": "The Crystal Palace",
+            "image": "https://i.imgur.com/DKXnaEs.jpg",
+            "capacity": 150,
+            "opening_time": "08:00:00",
+            "closing_time": "19:00:00",
+            "description": "Dine in Victorian splendor in this greenhouse-inspired Crystal Palace, idyllically set on Main Street, U.S.A. Join Winnie the Pooh and friends for a whimsical all-you-care-to-enjoy buffet breakfast, lunch or dinner."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 46,
+        "fields": {
+            "name": "The Diamond Horseshoe",
+            "image": "https://i.imgur.com/Lq3tmsn.jpg",
+            "capacity": 200,
+            "opening_time": "12:00:00",
+            "closing_time": "19:00:00",
+            "description": "Mosey inside this Old West music hall to feast on an all-you-care-to-enjoy holiday inspired dinner your whole family will love!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 47,
+        "fields": {
+            "name": "The Friar's Nook",
+            "image": "https://i.imgur.com/O2CkePc.jpg",
+            "capacity": 100,
+            "opening_time": "09:00:00",
+            "closing_time": "16:45:00",
+            "description": "Tuck into tasty American cuisine and crowd-pleasing picks at an eatery inspired by the classic Disney film Robin Hood."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 48,
+        "fields": {
+            "name": "Gaston's Tavern",
+            "image": "https://i.imgur.com/pgUGbwP.jpg",
+            "capacity": 80,
+            "opening_time": "09:00:00",
+            "closing_time": "15:00:00",
+            "description": "The manliest of manly places, Gaston's Tavern serves up satisfying snacks, including warm cinnamon rolls. Plus, enjoy refreshing beverages like LeFou's Brew—the restaurant's signature non-alcoholic drink."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 49,
+        "fields": {
+            "name": "Golden Oak Outpost",
+            "image": "https://i.imgur.com/yiiDqeJ.jpg",
+            "capacity": 20,
+            "opening_time": "12:00:00",
+            "closing_time": "17:00:00",
+            "description": "Rustle up vittles to go at this Old West-style eatery—our menu features hot-n-crispy chicken breast strips, loaded fries, cookies and ice-cold soft drinks!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 50,
+        "fields": {
+            "name": "Jungle Navigation Co. LTD Skipper Canteen",
+            "image": "https://i.imgur.com/HupFujS.jpg",
+            "capacity": 222,
+            "opening_time": "11:00:00",
+            "closing_time": "19:00:00",
+            "description": "Hungry for adventure? Savor the tropical cuisine of this exotic outpost."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 51,
+        "fields": {
+            "name": "Liberty Tree Tavern",
+            "image": "https://i.imgur.com/iaKbFxB.jpg",
+            "capacity": 125,
+            "opening_time": "11:00:00",
+            "closing_time": "19:00:00",
+            "description": "Pay tribute to our founding fathers as you dine at this stately colonial-style inn serving traditional New England-inspired fare."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 52,
+        "fields": {
+            "name": "The Lunching Pad",
+            "image": "https://i.imgur.com/Ow0lRMo.jpg",
+            "capacity": 60,
+            "opening_time": "09:00:00",
+            "closing_time": "16:45:00",
+            "description": "Ready for blast off? Fuel up with out-of-this-world specialties including all-beef hot dogs, specialty pretzels, chips and more. Top it off with frozen carbonated beverages or water."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 53,
+        "fields": {
+            "name": "Main Street Bakery",
+            "image": "https://i.imgur.com/YSKGgfI.jpg",
+            "capacity": 42,
+            "opening_time": "08:30:00",
+            "closing_time": "18:30:00",
+            "description": "Make a stop on the way down Main Street and top off your day with a tasty cup or even a mouthwatering treat—including a selection of STARBUCKS® Coffee and specialty beverages, along with Disney baked goods."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 54,
+        "fields": {
+            "name": "Pecos Bill Tall Tale Inn and Cafe",
+            "image": "https://i.imgur.com/17aHqsb.jpg",
+            "capacity": 554,
+            "opening_time": "10:30:00",
+            "closing_time": "17:45:00",
+            "description": "Rustle up some grub at this Old West saloon! Tell tall tales over chicken fajitas, southwestern salad and the bacon cheeseburger—all before riding off into the sunset to the taste of sweet treats like mini churros with dipping chocolate."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 55,
+        "fields": {
+            "name": "Pinnochio Village Haus",
+            "image": "https://i.imgur.com/mSXty7v.jpg",
+            "capacity": 500,
+            "opening_time": "10:30:00",
+            "closing_time": "16:45:00",
+            "description": "Real boys and girls can feast on Italian favorites at this quaint cottage inspired by the classic Disney film Pinocchio."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 56,
+        "fields": {
+            "name": "Plaza Ice Cream Parlor",
+            "image": "https://i.imgur.com/qY5bzB8.jpg",
+            "capacity": 50,
+            "opening_time": "11:00:00",
+            "closing_time": "18:30:00",
+            "description": "Indulge in hand-scooped ice cream at this sweetly nostalgic parlor on Main Street, U.S.A. Savor fresh waffle-bowl sundaes smothered in hot fudge! Fat-free and no sugar added options are also available."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 57,
+        "fields": {
+            "name": "The Plaza Restaurant",
+            "image": "https://i.imgur.com/zBXRt75.jpg",
+            "capacity": 200,
+            "opening_time": "11:00:00",
+            "closing_time": "19:00:00",
+            "description": "Discover casual dining amid an atmosphere of turn-of-the-century elegance at this charming gem located at the end of Main Street, U.S.A."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 58,
+        "fields": {
+            "name": "Prince Eric's Village Market",
+            "image": "Prince Eric's Village Market",
+            "capacity": 50,
+            "opening_time": "11:00:00",
+            "closing_time": "18:00:00",
+            "description": "Discover a wide variety of tempting snacks, from turkey legs and jumbo pretzels to grapes and pickles. Don’t forget to pair your selection with a sensational frozen slush!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 59,
+        "fields": {
+            "name": "Sleepy Hollow",
+            "image": "https://i.imgur.com/dPD8PYk.jpg",
+            "capacity": 0,
+            "opening_time": "09:00:00",
+            "closing_time": "17:45:00",
+            "description": "Fill the hollow in your belly with a tasty treat at this quaint brick cottage by Cinderella Castle. Choose between sweet waffle sandwiches or funnel cakes topped with strawberries and whipped cream."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 60,
+        "fields": {
+            "name": "Storybook Treats",
+            "image": "https://i.imgur.com/5BRB4Eo.jpg",
+            "capacity": 250,
+            "opening_time": "11:00:00",
+            "closing_time": "18:00:00",
+            "description": "Find your fairy tale ending in a hot fudge sundae. Soft-serve ice cream, floats and beverages are also available."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 61,
+        "fields": {
+            "name": "Sunshine Tree Terrace",
+            "image": "https://i.imgur.com/HmTnRt9.jpg",
+            "capacity": 50,
+            "opening_time": "10:00:00",
+            "closing_time": "17:45:00",
+            "description": "Sip on some sunshine with a Citrus Swirl—a tasty treat blended with frozen orange juice slushy and vanilla soft-serve ice cream—and other delights like a DOLE Whip® orange soft-serve swirled with vanilla."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 62,
+        "fields": {
+            "name": "Tomorrowland Terrace Restaurant",
+            "image": "https://i.imgur.com/c5AMXP5.jpg",
+            "capacity": 450,
+            "opening_time": "10:00:00",
+            "closing_time": "17:00:00",
+            "description": "Treat your senses to a sensational dessert party with views of the Magic Kingdom nighttime spectacular!"
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 63,
+        "fields": {
+            "name": "Tony's Town Square Restaurant",
+            "image": "https://i.imgur.com/kT27Dnc.jpg",
+            "capacity": 450,
+            "opening_time": "11:30:00",
+            "closing_time": "19:00:00",
+            "description": "Everyone loves Italian, but this is no ordinary Italian restaurant! It’s where Lady and the Tramp had their first kiss."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 64,
+        "fields": {
+            "name": "Tortuga's Tavern",
+            "image": "https://i.imgur.com/jWp1IY5.jpg",
+            "capacity": 553,
+            "opening_time": "11:00:00",
+            "closing_time": "17:00:00",
+            "description": "Avast! Sink yer teeth—whether gold or pearly whites—into tasty pirate fare, fit for both scallywags and scoundrels alike."
+        }
+    },
+    {
+        "model": "magicaldayapi.location_model",
+        "pk": 65,
+        "fields": {
+            "name": "Westward Ho",
+            "image": "https://i.imgur.com/drStabY.jpg",
+            "capacity": 45,
+            "opening_time": "09:30:00",
+            "closing_time": "17:00:00",
+            "description": "Take a break from blazing the trail and enjoy some cool refreshment—like frozen lemonade or cold brew coffee. Or, cozy up to the campfire with hot coffee, hot tea, chips or tasty corn dog nuggets."
+        }
+    }                                                           
+]
+
