@@ -5,3 +5,4 @@ class MenuItem(models.Model):
     description = models.CharField(max_length=500)
     price = models.IntegerField()
     location = models.ForeignKey("Location", on_delete=models.CASCADE)
+    image = models.CharField(max_length=500)
