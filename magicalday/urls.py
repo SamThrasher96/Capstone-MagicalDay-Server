@@ -18,12 +18,13 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from magicaldayapi.views import register_user, login_user, GuestView, LocationView, MenuItemView
+from magicaldayapi.views import register_user, login_user, GuestView, LocationView, MenuItemView, ReservationView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'guests', GuestView, 'guest')
 router.register(r'locations', LocationView, 'location')
 router.register(r'menuitems', MenuItemView, 'menuitem')
+router.register(r'reservations', ReservationView, 'reservation')
 
 urlpatterns = [
     path('register', register_user),
