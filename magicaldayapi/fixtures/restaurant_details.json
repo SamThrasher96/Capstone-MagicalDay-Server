@@ -1,0 +1,243 @@
+[
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 1,
+        "fields": {
+            "location": 36,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 2,
+        "fields": {
+            "location": 37,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 3,
+        "fields": {
+            "location": 38,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 4,
+        "fields": {
+            "location": 39,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 5,
+        "fields": {
+            "location": 40,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 6,
+        "fields": {
+            "location": 41,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 7,
+        "fields": {
+            "location": 42,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 8,
+        "fields": {
+            "location": 43,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 9,
+        "fields": {
+            "location": 44,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 10,
+        "fields": {
+            "location": 45,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 11,
+        "fields": {
+            "location": 46,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 12,
+        "fields": {
+            "location": 47,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 13,
+        "fields": {
+            "location": 48,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 14,
+        "fields": {
+            "location": 49,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 15,
+        "fields": {
+            "location": 50,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 16,
+        "fields": {
+            "location": 51,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 17,
+        "fields": {
+            "location": 52,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 18,
+        "fields": {
+            "location": 53,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 19,
+        "fields": {
+            "location": 54,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 20,
+        "fields": {
+            "location": 55,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 21,
+        "fields": {
+            "location": 56,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 22,
+        "fields": {
+            "location": 57,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 23,
+        "fields": {
+            "location": 58,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 24,
+        "fields": {
+            "location": 59,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 25,
+        "fields": {
+            "location": 60,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 26,
+        "fields": {
+            "location": 61,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 27,
+        "fields": {
+            "location": 62,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 28,
+        "fields": {
+            "location": 63,
+            "allergy_friendly": false
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 29,
+        "fields": {
+            "location": 64,
+            "allergy_friendly": true
+        }
+    },
+    {
+        "model": "magicaldayapi.restaurant_details_models",
+        "pk": 30,
+        "fields": {
+            "location": 65,
+            "allergy_friendly": true
+        }
+    }
+]
+

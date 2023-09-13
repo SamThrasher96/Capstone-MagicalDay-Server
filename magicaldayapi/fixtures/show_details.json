@@ -1,0 +1,102 @@
+[
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 1,
+        "fields": {
+            "location": 5,
+            "duration": 16,
+            "cast_size": 0,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 2,
+        "fields": {
+            "location": 7,
+            "duration": 20,
+            "cast_size": 3,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 3,
+        "fields": {
+            "location": 8,
+            "duration": 5,
+            "cast_size": 60,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 4,
+        "fields": {
+            "location": 9,
+            "duration": 12,
+            "cast_size": 170,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 5,
+        "fields": {
+            "location": 12,
+            "duration": 17,
+            "cast_size": 0,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 6,
+        "fields": {
+            "location": 16,
+            "duration": 10,
+            "cast_size": 10,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 7,
+        "fields": {
+            "location": 22,
+            "duration": 12,
+            "cast_size": 0,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 8,
+        "fields": {
+            "location": 23,
+            "duration": 17,
+            "cast_size": 6,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 9,
+        "fields": {
+            "location": 34,
+            "duration": 21,
+            "cast_size": 0,
+            "running": true
+        }
+    },
+    {
+        "model": "magicaldayapi.show_details_models",
+        "pk": 10,
+        "fields": {
+            "location": 35,
+            "duration": 16,
+            "cast_size": 0,
+            "running": true
+        }
+    }
+]

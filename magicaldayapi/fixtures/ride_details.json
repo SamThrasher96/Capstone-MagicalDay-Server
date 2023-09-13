@@ -1,0 +1,352 @@
+[
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 1,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 3,
+            "location": 1,
+            "expected_wait_time": 20
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 2,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 2,
+                "inches": 9
+            },
+            "duration": 1,
+            "location": 2,
+            "expected_wait_time": 10
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 3,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 3,
+                "inches": 4
+            },
+            "duration": 4,
+            "location": 3,
+            "expected_wait_time": 35
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 4,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 7,
+            "location": 4,
+            "expected_wait_time": 30
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 5,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 2,
+            "location": 6,
+            "expected_wait_time": 15
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 6,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 12,
+            "location": 10,
+            "expected_wait_time": 5
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 7,
+        "fields": {
+            "operating": false,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 25,
+            "location": 11,
+            "expected_wait_time": 10
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 8,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 9,
+            "location": 13,
+            "expected_wait_time": 35
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 9,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 15,
+            "location": 14,
+            "expected_wait_time": 20
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 10,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 10,
+            "location": 15,
+            "expected_wait_time": 45
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 11,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 17,
+            "location": 17,
+            "expected_wait_time": 5
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 12,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 3,
+            "location": 18,
+            "expected_wait_time": 15
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 13,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 3,
+            "location": 19,
+            "expected_wait_time": 20
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 14,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 15,
+            "location": 20,
+            "expected_wait_time": 5
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 15,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 30,
+            "location": 21,
+            "expected_wait_time": 30
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 16,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 5,
+            "location": 24,
+            "expected_wait_time": 60
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 17,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 8,
+            "location": 25,
+            "expected_wait_time": 30
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 18,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 3,
+            "location": 26,
+            "expected_wait_time": 5
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 19,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 3,
+                "inches": 2
+            },
+            "duration": 4,
+            "location": 27,
+            "expected_wait_time": 80
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 20,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 3,
+                "inches": 8
+            },
+            "duration": 3,
+            "location": 28,
+            "expected_wait_time": 55
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 21,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 2,
+                "inches": 10
+            },
+            "duration": 7,
+            "location": 29,
+            "expected_wait_time": 20
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 22,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 10,
+            "location": 30,
+            "expected_wait_time": 10
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 23,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 4,
+                "inches": 0
+            },
+            "duration": 5,
+            "location": 31,
+            "expected_wait_time": 65
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 24,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 7,
+            "location": 32,
+            "expected_wait_time": 20
+        }
+    },
+    {
+        "model": "magicaldayapi.ride_details_models",
+        "pk": 25,
+        "fields": {
+            "operating": true,
+            "height_requirement": {
+                "feet": 0,
+                "inches": 0
+            },
+            "duration": 20,
+            "location": 33,
+            "expected_wait_time": 10
+        }
+    }
+]
