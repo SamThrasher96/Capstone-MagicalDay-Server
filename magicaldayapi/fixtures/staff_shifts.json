@@ -1,0 +1,72 @@
+[
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 1,
+        "fields": {
+            "staff": 1,
+            "date": "2023-09-22",
+            "start_time": "07:00:00",
+            "end_time": "12:30:00"
+        }
+    }, 
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 2,
+        "fields": {
+            "staff": 2,
+            "date": "2023-09-22",
+            "start_time": "09:00:00",
+            "end_time": "17:30:00"
+        }
+    },
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 3,
+        "fields": {
+            "staff": 3,
+            "date": "2023-09-22",
+            "start_time": "11:00:00",
+            "end_time": "22:30:00"
+        }
+    }, 
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 4,
+        "fields": {
+            "staff": 4,
+            "date": "2023-09-23",
+            "start_time": "07:00:00",
+            "end_time": "12:30:00"
+        }
+    },
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 5,
+        "fields": {
+            "staff": 5,
+            "date": "2023-09-23",
+            "start_time": "09:00:00",
+            "end_time": "17:30:00"
+        }
+    },
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 6,
+        "fields": {
+            "staff": 6,
+            "date": "2023-09-23",
+            "start_time": "11:00:00",
+            "end_time": "22:30:00"
+        }
+    },
+    {
+        "model": "magicaldayapi.StaffShift",
+        "pk": 7,
+        "fields": {
+            "staff": 7,
+            "date": "2023-09-24",
+            "start_time": "07:30:00",
+            "end_time": "17:00:00"
+        }
+    }
+]

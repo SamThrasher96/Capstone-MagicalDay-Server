@@ -1,0 +1,65 @@
+[
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 1,
+        "fields": {
+            "user": 4, 
+            "hired_on": "1971-10-01",
+            "location": 1
+        }
+    },
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 2,
+        "fields": {
+            "user": 5, 
+            "hired_on": "2023-09-01",
+            "location": 2
+        }
+    },
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 3,
+        "fields": {
+            "user": 6, 
+            "hired_on": "2022-01-16",
+            "location": 3
+        }
+    },
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 4,
+        "fields": {
+            "user": 7, 
+            "hired_on": "1980-10-21",
+            "location": 4
+        }
+    }, 
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 5,
+        "fields": {
+            "user": 8, 
+            "hired_on": "1989-12-13",
+            "location": 5
+        }
+    }, 
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 6,
+        "fields": {
+            "user": 9, 
+            "hired_on": "2014-06-26",
+            "location": 6
+        }
+    },
+    {
+        "model": "magicaldayapi.Staff",
+        "pk": 7,
+        "fields": {
+            "user": 10, 
+            "hired_on": "2022-02-26",
+            "location": 1
+        }
+    }
+]

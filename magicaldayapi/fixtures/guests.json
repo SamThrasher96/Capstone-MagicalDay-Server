@@ -1,0 +1,98 @@
+[
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "profile_picture": "https://i.imgur.com/AuZYuAL.jpg",
+            "height": {
+                "feet": 5,
+                "inches": 7
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "profile_picture": "https://i.imgur.com/adHS4lH.jpg",
+            "height": {
+                "feet": 5,
+                "inches": 6
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "profile_picture": "https://i.imgur.com/kN4Z7re.jpg",
+            "height": {
+                "feet": 4,
+                "inches": 3
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 4,
+        "fields": {
+            "user": 11,
+            "profile_picture": "https://i.imgur.com/HJloLwX.jpg",
+            "height": {
+                "feet": 4,
+                "inches": 3
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 5,
+        "fields": {
+            "user": 12,
+            "profile_picture": "https://i.imgur.com/tw1KxYx.jpg",
+            "height": {
+                "feet": 5,
+                "inches": 8
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 6,
+        "fields": {
+            "user": 13,
+            "profile_picture": "https://i.imgur.com/TNytK4S.jpg",
+            "height": {
+                "feet": 5,
+                "inches": 7
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 7,
+        "fields": {
+            "user": 14,
+            "profile_picture": "https://i.imgur.com/7MbHRwJ.jpg",
+            "height": {
+                "feet": 6,
+                "inches": 2
+            }
+        }
+    },
+    {
+        "model": "magicaldayapi.Guest",
+        "pk": 8,
+        "fields": {
+            "user": 15,
+            "profile_picture": "https://i.imgur.com/U83YzJT.jpg",
+            "height": {
+                "feet": 3,
+                "inches": 1
+            }
+        }
+    }
+]

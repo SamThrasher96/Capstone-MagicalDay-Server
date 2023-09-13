@@ -1,0 +1,1058 @@
+[
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 1,
+        "fields": {
+            "name": "Dole Whip Float",
+            "description": "Refreshing pineapple Dole Whip served with pineapple juice.",
+            "price": 5.99,
+            "location": 36,
+            "image": "https://i.imgur.com/1iWETqg.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 2,
+        "fields": {
+            "name": "Dole Whip Soft Serve",
+            "description": "Delicious pineapple-flavored soft-serve ice cream.",
+            "price": 4.99,
+            "location": 36,
+            "image": "https://i.imgur.com/DTiO7Vl.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 3,
+        "fields": {
+            "name": "Dole Whip Pineapple Upside Down Cake",
+            "description": "Pineapple Dole Whip atop a slice of pineapple upside-down cake.",
+            "price": 6.99,
+            "location": 36,
+            "image": "https://i.imgur.com/V6racCx.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 4,
+        "fields": {
+            "name": "Moon Rock Mix",
+            "description": "A sweet and crunchy blend of space-inspired treats.",
+            "price": 6.49,
+            "location": 37,
+            "image": "https://i.imgur.com/vZ9Raj0.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 5,
+        "fields": {
+            "name": "Ice Cream Cone",
+            "description": "Classic vanilla ice cream in a crispy cone.",
+            "price": 4.99,
+            "location": 37,
+            "image": "https://i.imgur.com/8ljSl03.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 6,
+        "fields": {
+            "name": "Sundae Supreme",
+            "description": "A delightful sundae topped with whipped cream and your choice of toppings.",
+            "price": 7.99,
+            "location": 37,
+            "image": "https://i.imgur.com/LIAS536.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 7,
+        "fields": {
+            "name": "French Onion Soup",
+            "description": "A classic French onion soup topped with melted cheese and toasted croutons.",
+            "price": 8.99,
+            "location": 38,
+            "image": "https://i.imgur.com/kL3401X.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 8,
+        "fields": {
+            "name": "Braised Pork",
+            "description": "Tender braised pork served with seasonal vegetables and a flavorful sauce.",
+            "price": 19.99,
+            "location": 38,
+            "image": "https://i.imgur.com/RyZgaiL.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 9,
+        "fields": {
+            "name": "Grey Stuff",
+            "description": "Try the grey stuff; it's delicious! A sweet and creamy dessert fit for a prince or princess.",
+            "price": 6.49,
+            "location": 38,
+            "image": "https://i.imgur.com/Y9DYAxX.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 10,
+        "fields": {
+            "name": "Classic Hot Dog",
+            "description": "A classic all-beef hot dog served in a fresh bun.",
+            "price": 7.99,
+            "location": 39,
+            "image": "https://i.imgur.com/Z2nnpvs.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 11,
+        "fields": {
+            "name": "Chili-Cheese Dog",
+            "description": "A savory hot dog topped with chili and melted cheese.",
+            "price": 8.99,
+            "location": 39,
+            "image": "https://i.imgur.com/SKbpYdv.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 12,
+        "fields": {
+            "name": "Corn Dog Nuggets",
+            "description": "Delicious bite-sized corn dogs served with your choice of dipping sauce.",
+            "price": 6.49,
+            "location": 39,
+            "image": "https://i.imgur.com/g4IKiNK.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 13,
+        "fields": {
+            "name": "Cheshire Cat Tail Pastry",
+            "description": "A delightful pastry twist with pink and purple icing, inspired by the Cheshire Cat.",
+            "price": 5.49,
+            "location": 40,
+            "image": "https://i.imgur.com/87Ph6u6.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 14,
+        "fields": {
+            "name": "Mad Tea Party Slush",
+            "description": "A colorful slushy beverage inspired by the Mad Tea Party ride.",
+            "price": 6.99,
+            "location": 40,
+            "image": "https://i.imgur.com/rxtKjtH.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 15,
+        "fields": {
+            "name": "Cheshire Cat Cupcake",
+            "description": "A whimsical cupcake topped with a Cheshire Cat-themed design.",
+            "price": 4.99,
+            "location": 40,
+            "image": "https://i.imgur.com/OWcQAQ6.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 16,
+        "fields": {
+            "name": "Royal Feast Platter",
+            "description": "An extravagant feast featuring a selection of fine dishes fit for royalty.",
+            "price": 59.99,
+            "location": 41,
+            "image": "https://i.imgur.com/232ruwN.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 17,
+        "fields": {
+            "name": "Cinderella's Enchanted Pumpkin Soup",
+            "description": "A velvety pumpkin soup with a touch of enchantment and flavor.",
+            "price": 12.99,
+            "location": 41,
+            "image": "https://i.imgur.com/Cqjqdpn.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 18,
+        "fields": {
+            "name": "Prince Charming's Grilled Filet Mignon",
+            "description": "A perfectly grilled filet mignon, served with a savory sauce and vegetables.",
+            "price": 34.99,
+            "location": 41,
+            "image": "https://i.imgur.com/fFUmpiQ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 19,
+        "fields": {
+            "name": "Lobster Roll",
+            "description": "A delicious lobster roll with tender chunks of lobster meat.",
+            "price": 15.99,
+            "location": 42,
+            "image": "https://i.imgur.com/vcT9ORN.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 20,
+        "fields": {
+            "name": "Fried Shrimp Platter",
+            "description": "Crispy fried shrimp served with French fries and coleslaw.",
+            "price": 14.99,
+            "location": 42,
+            "image": "https://i.imgur.com/uRqQ7oc.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 21,
+        "fields": {
+            "name": "New England Clam Chowder",
+            "description": "Creamy and flavorful clam chowder served in a bread bowl.",
+            "price": 8.99,
+            "location": 42,
+            "image": "https://i.imgur.com/fJM82sW.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 22,
+        "fields": {
+            "name": "Beverage Blast-off",
+            "description": "A refreshing and energizing blend of tropical fruit juices.",
+            "price": 4.99,
+            "location": 43,
+            "image": "https://i.imgur.com/yNZ3BJO.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 23,
+        "fields": {
+            "name": "Galactic Slush",
+            "description": "A colorful and icy slushy beverage that's out of this world.",
+            "price": 5.49,
+            "location": 43,
+            "image": "https://i.imgur.com/Q41koGb.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 24,
+        "fields": {
+            "name": "Alien Popcorn Bucket",
+            "description": "A fun and collectible popcorn bucket shaped like an alien spacecraft.",
+            "price": 12.99,
+            "location": 43,
+            "image": "https://i.imgur.com/ccQLlkM.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 25,
+        "fields": {
+            "name": "Starlight Burger",
+            "description": "A classic burger with all the fixings, served with your choice of side.",
+            "price": 11.99,
+            "location": 44,
+            "image": "https://i.imgur.com/3BXNQhZ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 26,
+        "fields": {
+            "name": "BBQ Pulled Pork Sandwich",
+            "description": "Tender pulled pork smothered in barbecue sauce, served on a bun.",
+            "price": 12.99,
+            "location": 44,
+            "image": "https://i.imgur.com/x1Y7hgM.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 27,
+        "fields": {
+            "name": "Galactic Salad",
+            "description": "A fresh and crisp salad with a variety of toppings and dressings.",
+            "price": 9.99,
+            "location": 44,
+            "image": "https://i.imgur.com/NOWMGWU.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 28,
+        "fields": {
+            "name": "Pooh's Breakfast Lasagna",
+            "description": "Layers of fluffy pancakes, waffles, and fresh fruit, served with maple syrup.",
+            "price": 15.99,
+            "location": 45,
+            "image": "https://i.imgur.com/uESdlUr.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 29,
+        "fields": {
+            "name": "Tigger's Bouncy Waffles",
+            "description": "Fluffy Waffles with a hint of orange zest, served with whipped cream and berries.",
+            "price": 14.99,
+            "location": 45,
+            "image": "https://i.imgur.com/HiGTTtk.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 30,
+        "fields": {
+            "name": "Eeyore's Comforting Omelette",
+            "description": "A hearty omelette filled with cheese, ham, and veggies, served with toast.",
+            "price": 13.99,
+            "location": 45,
+            "image": "https://i.imgur.com/1bShZzx.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 31,
+        "fields": {
+            "name": "Frontier Feast Platter",
+            "description": "A hearty platter featuring smoked BBQ pork, sliced turkey, and all the fixings.",
+            "price": 18.99,
+            "location": 46,
+            "image": "https://i.imgur.com/hv6S38u.png"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 32,
+        "fields": {
+            "name": "Stage Door Sandwich",
+            "description": "A delicious sandwich with roast beef, Swiss cheese, and horseradish mayo.",
+            "price": 14.99,
+            "location": 46,
+            "image": "https://i.imgur.com/7SWtAf4.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 33,
+        "fields": {
+            "name": "Golden Horseshoe Salad",
+            "description": "A fresh salad with mixed greens, tomatoes, and ranch dressing.",
+            "price": 10.99,
+            "location": 46,
+            "image": "https://i.imgur.com/qPFgSKa.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 34,
+        "fields": {
+            "name": "Loaded Buffalo Macaroni & Cheese",
+            "description": "Creamy macaroni and cheese with buffalo chicken and ranch dressing.",
+            "price": 9.99,
+            "location": 47,
+            "image": "https://i.imgur.com/JDuCdWn.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 35,
+        "fields": {
+            "name": "Pot Roast Macaroni & Cheese",
+            "description": "Savory pot roast served on top of macaroni and cheese.",
+            "price": 10.99,
+            "location": 47,
+            "image": "https://i.imgur.com/DzJrcU6.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 36,
+        "fields": {
+            "name": "Brat & Tots",
+            "description": "A grilled bratwurst served with tater tots and your choice of toppings.",
+            "price": 8.99,
+            "location": 47,
+            "image": "https://i.imgur.com/Ksjf3W5.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 37,
+        "fields": {
+            "name": "Gaston's Cinnamon Roll",
+            "description": "A giant and delicious cinnamon roll, as big as your head!",
+            "price": 6.99,
+            "location": 48,
+            "image": "https://i.imgur.com/xEtDNPu.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 38,
+        "fields": {
+            "name": "LeFou's Brew",
+            "description": "A frozen apple juice slushy with a hint of toasted marshmallow and passion fruit foam.",
+            "price": 5.49,
+            "location": 48,
+            "image": "https://i.imgur.com/FoOmGJm.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 39,
+        "fields": {
+            "name": "Roasted Pork Shank",
+            "description": "A tender and flavorful roasted pork shank, fit for a hearty appetite.",
+            "price": 9.99,
+            "location": 48,
+            "image": "https://i.imgur.com/0X4XifF.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 40,
+        "fields": {
+            "name": "Chicken Nuggets",
+            "description": "Tender chicken nuggets served with your choice of dipping sauce.",
+            "price": 8.99,
+            "location": 49,
+            "image": "https://i.imgur.com/nJZpmmF.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 41,
+        "fields": {
+            "name": "Slue Foot Sandwich",
+            "description": "A flavorful sandwich filled with fresh vegetables, a special sauce, and fried fish.",
+            "price": 9.99,
+            "location": 49,
+            "image": "https://i.imgur.com/s7VkAcg.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 42,
+        "fields": {
+            "name": "Fresh-Cut Fries",
+            "description": "Crispy and delicious fries made from fresh-cut potatoes.",
+            "price": 4.49,
+            "location": 49,
+            "image": "https://i.imgur.com/gvexvZk.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 43,
+        "fields": {
+            "name": "Curried Vegetable Crew Stew",
+            "description": "A flavorful stew filled with a medley of curried vegetables and herbs.",
+            "price": 14.99,
+            "location": 50,
+            "image": "https://i.imgur.com/U6rNMoC.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 44,
+        "fields": {
+            "name": "Jungle Navigation Char Siu Pork",
+            "description": "Tender and savory char siu pork served with jasmine rice and vegetables.",
+            "price": 16.99,
+            "location": 50,
+            "image": "https://i.imgur.com/mGsMyII.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 45,
+        "fields": {
+            "name": "Tropical Banana-Cacao Tart",
+            "description": "A delightful tart made with tropical banana and cacao flavors.",
+            "price": 7.99,
+            "location": 50,
+            "image": "https://i.imgur.com/NDwyzh0.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 46,
+        "fields": {
+            "name": "Pilgrims' Feast",
+            "description": "A traditional Thanksgiving feast with roast turkey, stuffing, and all the trimmings.",
+            "price": 24.99,
+            "location": 51,
+            "image": "https://i.imgur.com/dWo60qD.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 47,
+        "fields": {
+            "name": "Freedom Pasta",
+            "description": "Penne pasta with a rich marinara sauce and your choice of meatballs or Italian sausage.",
+            "price": 18.99,
+            "location": 51,
+            "image": "https://i.imgur.com/3zO6KkP.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 48,
+        "fields": {
+            "name": "Colonial Chocolate Cake",
+            "description": "A decadent chocolate cake with layers of chocolate mousse and raspberry sauce.",
+            "price": 9.99,
+            "location": 51,
+            "image": "https://i.imgur.com/xFvA2Bs.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 49,
+        "fields": {
+            "name": "Rocket Dog",
+            "description": "A classic hot dog with a futuristic twist, served with your choice of toppings.",
+            "price": 8.99,
+            "location": 52,
+            "image": "https://i.imgur.com/uHiz6xZ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 50,
+        "fields": {
+            "name": "Galactic Pretzel",
+            "description": "A soft pretzel with a sprinkling of space-themed seasonings and dipping sauce.",
+            "price": 7.49,
+            "location": 52,
+            "image": "https://i.imgur.com/41Mi0e6.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 51,
+        "fields": {
+            "name": "Moon Cheese",
+            "description": "Crunchy and cheesy moon-shaped snacks, perfect for an intergalactic snack.",
+            "price": 5.99,
+            "location": 52,
+            "image": "https://i.imgur.com/9tYtYIJ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 52,
+        "fields": {
+            "name": "Cinnamon Swirl Bun",
+            "description": "A warm and gooey cinnamon bun drizzled with icing and cinnamon sugar.",
+            "price": 5.49,
+            "location": 53,
+            "image": "https://i.imgur.com/9XC6W9a.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 53,
+        "fields": {
+            "name": "Mickey Mouse-shaped Waffle",
+            "description": "A delightful waffle in the shape of Mickey Mouse's face, served with maple syrup.",
+            "price": 7.99,
+            "location": 53,
+            "image": "https://i.imgur.com/w2FPpZ3.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 54,
+        "fields": {
+            "name": "Espresso Macchiato",
+            "description": "A shot of rich espresso with a dollop of frothy milk, perfect for coffee lovers.",
+            "price": 3.99,
+            "location": 53,
+            "image": "https://i.imgur.com/VNJ7yy6.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 55,
+        "fields": {
+            "name": "Fajita Platter",
+            "description": "Sizzling fajitas with your choice of grilled chicken or beef, served with all the fixings.",
+            "price": 15.99,
+            "location": 54,
+            "image": "https://i.imgur.com/Loz0niD.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 56,
+        "fields": {
+            "name": "Taco Trio",
+            "description": "A trio of delicious tacos with your choice of fillings, served with rice and beans.",
+            "price": 12.99,
+            "location": 54,
+            "image": "https://i.imgur.com/GPgoS23.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 57,
+        "fields": {
+            "name": "Churro Bites",
+            "description": "Crispy and sweet churro bites, dusted with cinnamon sugar and served with chocolate sauce.",
+            "price": 6.49,
+            "location": 54,
+            "image": "https://i.imgur.com/iFPvHaV.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 58,
+        "fields": {
+            "name": "Caprese Flatbread",
+            "description": "A flatbread topped with fresh tomatoes, mozzarella, basil, and balsamic glaze.",
+            "price": 10.99,
+            "location": 55,
+            "image": "https://i.imgur.com/he0n0HY.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 59,
+        "fields": {
+            "name": "Geppetto's Supreme Pizza",
+            "description": "A classic pizza loaded with pepperoni, sausage, bell peppers, and mushrooms.",
+            "price": 12.99,
+            "location": 55,
+            "image": "https://i.imgur.com/P56bzPk.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 60,
+        "fields": {
+            "name": "Gelato Sundae",
+            "description": "Creamy gelato served with your choice of toppings and whipped cream.",
+            "price": 6.49,
+            "location": 55,
+            "image": "https://i.imgur.com/r5iR4nJ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 61,
+        "fields": {
+            "name": "Ice Cream Sundae",
+            "description": "A classic ice cream sundae with your choice of ice cream flavors and toppings.",
+            "price": 6.99,
+            "location": 56,
+            "image": "https://i.imgur.com/QRxeBwb.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 62,
+        "fields": {
+            "name": "Waffle Cone",
+            "description": "A freshly baked waffle cone filled with your favorite ice cream flavors.",
+            "price": 5.49,
+            "location": 56,
+            "image": "https://i.imgur.com/d4FMliv.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 63,
+        "fields": {
+            "name": "Mickey's Kitchen Sink Sundae",
+            "description": "A massive sundae served in a souvenir Mickey Mouse kitchen sink, perfect for sharing.",
+            "price": 15.99,
+            "location": 56,
+            "image": "https://i.imgur.com/vzFOt8U.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 64,
+        "fields": {
+            "name": "Plaza Club Sandwich",
+            "description": "A classic club sandwich with turkey, bacon, lettuce, tomato, and mayo.",
+            "price": 13.99,
+            "location": 57,
+            "image": "https://i.imgur.com/zpxyFw4.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 65,
+        "fields": {
+            "name": "Main Street Burger",
+            "description": "A juicy burger with cheddar cheese, lettuce, tomato, and special sauce.",
+            "price": 14.99,
+            "location": 57,
+            "image": "https://i.imgur.com/zHVMQuA.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 66,
+        "fields": {
+            "name": "Ice Cream Sundae",
+            "description": "A delightful ice cream sundae with your choice of toppings and whipped cream.",
+            "price": 7.49,
+            "location": 57,
+            "image": "https://i.imgur.com/opa8FXY.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 67,
+        "fields": {
+            "name": "Mermaid's Twist Bread",
+            "description": "A freshly baked twist bread with a hint of seaweed and sea salt.",
+            "price": 4.99,
+            "location": 58,
+            "image": "https://i.imgur.com/5yCVYzU.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 68,
+        "fields": {
+            "name": "Seashell Salad",
+            "description": "A light and refreshing salad with mixed greens, tomatoes, and citrus vinaigrette.",
+            "price": 6.49,
+            "location": 58,
+            "image": "https://i.imgur.com/IQLPEYJ.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 69,
+        "fields": {
+            "name": "Mermaid Donut",
+            "description": "Yeast donut with Purple icing and sprinkles topped with white chocolate treasures from Ariels Grotto.",
+            "price": 5.99,
+            "location": 58,
+            "image": "https://i.imgur.com/7SMzXoc.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 70,
+        "fields": {
+            "name": "Sweet and Spicy Chicken Waffle Sandwich",
+            "description": "A crispy chicken breast served in a waffle with a sweet and spicy sauce.",
+            "price": 10.99,
+            "location": 59,
+            "image": "https://i.imgur.com/N4FPzL3.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 71,
+        "fields": {
+            "name": "Nutella and Fresh Fruit Waffle Sandwich",
+            "description": "A waffle sandwich filled with Nutella and fresh fruit, a sweet and indulgent treat.",
+            "price": 8.49,
+            "location": 59,
+            "image": "https://i.imgur.com/IW05Ptk.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 72,
+        "fields": {
+            "name": "Giant Mickey Mouse-shaped Waffle",
+            "description": "A fun-shaped waffle served with powdered sugar.",
+            "price": 6.99,
+            "location": 59,
+            "image": "https://i.imgur.com/YIBVRwY.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 73,
+        "fields": {
+            "name": "Peter Pan Float",
+            "description": "Lime Dole Whip swirled with Sprite and topped with a red feather.",
+            "price": 5.99,
+            "location": 60,
+            "image": "https://i.imgur.com/uFGOQ0c.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 74,
+        "fields": {
+            "name": "Rapunzel Sundae",
+            "description": "Vanilla soft-serve ice cream with your choice of toppings and a chocolate sword.",
+            "price": 6.49,
+            "location": 60,
+            "image": "https://i.imgur.com/rsXwHSs.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 75,
+        "fields": {
+            "name": "Mermaid Slush",
+            "description": "A refreshing slushie with flavors of blue raspberry and green apple.",
+            "price": 4.99,
+            "location": 60,
+            "image": "https://i.imgur.com/V2Fpu3r.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 76,
+        "fields": {
+            "name": "Orange Bird Citrus Swirl",
+            "description": "A refreshing swirl of orange and vanilla soft-serve ice cream.",
+            "price": 5.99,
+            "location": 61,
+            "image": "https://i.imgur.com/05A2F2W.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 77,
+        "fields": {
+            "name": "Dole Whip Orange Float",
+            "description": "Orange Dole Whip floating in a sea of citrus-flavored soft drink.",
+            "price": 6.49,
+            "location": 61,
+            "image": "https://i.imgur.com/J2gqP8P.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 78,
+        "fields": {
+            "name": "Pot Stickers",
+            "description": "Delicious pan-fried dumplings filled with a savory mixture of pork and vegetables, served with a dipping sauce.",
+            "price": 7.49,
+            "location": 61,
+            "image": "https://i.imgur.com/WTu8idT.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 79,
+        "fields": {
+            "name": "Space Burger",
+            "description": "A futuristic burger with a cosmic twist, served with space-age fries.",
+            "price": 12.99,
+            "location": 62,
+            "image": "https://i.imgur.com/240QgqB.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 80,
+        "fields": {
+            "name": "Pasta Primevera",
+            "description": "Pasta topped with otherworldly ingredients from across the galaxy.",
+            "price": 14.49,
+            "location": 62,
+            "image": "https://i.imgur.com/Txa28dk.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 81,
+        "fields": {
+            "name": "Rocket Fuel Smoothie",
+            "description": "A high-energy smoothie packed with fruits and a boost of rocket fuel.",
+            "price": 5.99,
+            "location": 62,
+            "image": "https://i.imgur.com/Rms65Kc.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 82,
+        "fields": {
+            "name": "Spaghetti and Meatballs",
+            "description": "Classic spaghetti with homemade meatballs and marinara sauce.",
+            "price": 15.99,
+            "location": 63,
+            "image": "https://i.imgur.com/HqqRUpb.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 83,
+        "fields": {
+            "name": "Chicken Parmesan",
+            "description": "Breaded chicken breast topped with marinara sauce and melted cheese, served with spaghetti.",
+            "price": 17.49,
+            "location": 63,
+            "image": "https://i.imgur.com/S8bUAGc.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 84,
+        "fields": {
+            "name": "Tiramisu",
+            "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+            "price": 8.99,
+            "location": 63,
+            "image": "https://i.imgur.com/0L3uA2Y.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 85,
+        "fields": {
+            "name": "Jerk Chicken Sandwich",
+            "description": "Tender jerk-seasoned chicken served in a soft bun with tropical coleslaw.",
+            "price": 11.99,
+            "location": 64,
+            "image": "https://example.com/jerk_chicken_sandwich.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 86,
+        "fields": {
+            "name": "Vegetable Rice Bowl",
+            "description": "A flavorful bowl of rice with mixed vegetables and a drizzle of Caribbean sauce.",
+            "price": 10.49,
+            "location": 64,
+            "image": "https://example.com/vegetable_rice_bowl.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 87,
+        "fields": {
+            "name": "Pirate's Grog",
+            "description": "A refreshing tropical drink made with a secret blend of island fruits.",
+            "price": 4.99,
+            "location": 64,
+            "image": "https://example.com/pirates_grog.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 85,
+        "fields": {
+            "name": "Jerk Chicken Sandwich",
+            "description": "Tender jerk-seasoned chicken served in a soft bun with tropical coleslaw.",
+            "price": 11.99,
+            "location": 64,
+            "image": "https://i.imgur.com/hC5MGww.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 86,
+        "fields": {
+            "name": "Vegetable Rice Bowl",
+            "description": "A flavorful bowl of rice with mixed vegetables and a drizzle of Caribbean sauce.",
+            "price": 10.49,
+            "location": 64,
+            "image": "https://i.imgur.com/SVm2SPu.jpg"
+        }
+    },    
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 87,
+        "fields": {
+            "name": "Pirate's BBQ",
+            "description": "A hearty BBQ sandwhich with a side of beans and colslaw.",
+            "price": 4.99,
+            "location": 64,
+            "image": "https://i.imgur.com/ezQ7OI3.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 88,
+        "fields": {
+            "name": "Turkey Leg",
+            "description": "A giant smoked turkey leg, a savory and satisfying snack.",
+            "price": 10.99,
+            "location": 65,
+            "image": "https://example.com/turkey_leg.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 89,
+        "fields": {
+            "name": "Chili-Cheese Nachos",
+            "description": "Crispy nacho chips smothered in chili and melted cheese, a hearty treat.",
+            "price": 8.49,
+            "location": 65,
+            "image": "https://example.com/chili_cheese_nachos.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 90,
+        "fields": {
+            "name": "Fruit Cup",
+            "description": "A refreshing cup of mixed seasonal fruits, a healthy and light option.",
+            "price": 4.99,
+            "location": 65,
+            "image": "https://example.com/fruit_cup.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 88,
+        "fields": {
+            "name": "Turkey Leg",
+            "description": "A giant smoked turkey leg, a savory and satisfying snack.",
+            "price": 10.99,
+            "location": 65,
+            "image": "https://i.imgur.com/NCFPjaj.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 89,
+        "fields": {
+            "name": "Chili-Cheese Nachos",
+            "description": "Crispy nacho chips smothered in chili and melted cheese, a hearty treat.",
+            "price": 8.49,
+            "location": 65,
+            "image": "https://i.imgur.com/ltsO4xA.jpg"
+        }
+    },
+    {
+        "model": "magicaldayapi.MenuItem",
+        "pk": 90,
+        "fields": {
+            "name": "Fruit Cup",
+            "description": "A refreshing cup of mixed seasonal fruits, a healthy and light option.",
+            "price": 4.99,
+            "location": 65,
+            "image": "https://i.imgur.com/fX3WKIh.jpg"
+        }
+    }
+]
