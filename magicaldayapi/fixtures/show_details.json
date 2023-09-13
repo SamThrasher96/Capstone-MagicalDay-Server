@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 1,
         "fields": {
             "location": 5,
@@ -10,7 +10,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 2,
         "fields": {
             "location": 7,
@@ -20,7 +20,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 3,
         "fields": {
             "location": 8,
@@ -30,7 +30,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 4,
         "fields": {
             "location": 9,
@@ -40,7 +40,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 5,
         "fields": {
             "location": 12,
@@ -50,7 +50,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 6,
         "fields": {
             "location": 16,
@@ -60,7 +60,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 7,
         "fields": {
             "location": 22,
@@ -70,7 +70,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 8,
         "fields": {
             "location": 23,
@@ -80,7 +80,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 9,
         "fields": {
             "location": 34,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "model": "magicaldayapi.show_details_models",
+        "model": "magicaldayapi.ShowDetails",
         "pk": 10,
         "fields": {
             "location": 35,

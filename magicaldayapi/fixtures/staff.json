@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 1,
         "fields": {
             "user": 4, 
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 2,
         "fields": {
             "user": 5, 
@@ -18,7 +18,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 3,
         "fields": {
             "user": 6, 
@@ -27,7 +27,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 4,
         "fields": {
             "user": 7, 
@@ -36,7 +36,7 @@
         }
     }, 
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 5,
         "fields": {
             "user": 8, 
@@ -45,7 +45,7 @@
         }
     }, 
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 6,
         "fields": {
             "user": 9, 
@@ -54,7 +54,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_model",
+        "model": "magicaldayapi.Staff",
         "pk": 7,
         "fields": {
             "user": 10, 

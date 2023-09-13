@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 1,
         "fields": {
             "name": "Dole Whip Float",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 2,
         "fields": {
             "name": "Dole Whip Soft Serve",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 3,
         "fields": {
             "name": "Dole Whip Pineapple Upside Down Cake",
@@ -33,7 +33,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 4,
         "fields": {
             "name": "Moon Rock Mix",
@@ -44,7 +44,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 5,
         "fields": {
             "name": "Ice Cream Cone",
@@ -55,7 +55,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 6,
         "fields": {
             "name": "Sundae Supreme",
@@ -66,7 +66,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 7,
         "fields": {
             "name": "French Onion Soup",
@@ -77,7 +77,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 8,
         "fields": {
             "name": "Braised Pork",
@@ -88,7 +88,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 9,
         "fields": {
             "name": "Grey Stuff",
@@ -99,7 +99,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 10,
         "fields": {
             "name": "Classic Hot Dog",
@@ -110,7 +110,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 11,
         "fields": {
             "name": "Chili-Cheese Dog",
@@ -121,7 +121,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 12,
         "fields": {
             "name": "Corn Dog Nuggets",
@@ -132,7 +132,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 13,
         "fields": {
             "name": "Cheshire Cat Tail Pastry",
@@ -143,7 +143,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 14,
         "fields": {
             "name": "Mad Tea Party Slush",
@@ -154,7 +154,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 15,
         "fields": {
             "name": "Cheshire Cat Cupcake",
@@ -165,7 +165,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 16,
         "fields": {
             "name": "Royal Feast Platter",
@@ -176,7 +176,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 17,
         "fields": {
             "name": "Cinderella's Enchanted Pumpkin Soup",
@@ -187,7 +187,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 18,
         "fields": {
             "name": "Prince Charming's Grilled Filet Mignon",
@@ -198,7 +198,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 19,
         "fields": {
             "name": "Lobster Roll",
@@ -209,7 +209,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 20,
         "fields": {
             "name": "Fried Shrimp Platter",
@@ -220,7 +220,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 21,
         "fields": {
             "name": "New England Clam Chowder",
@@ -231,7 +231,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 22,
         "fields": {
             "name": "Beverage Blast-off",
@@ -242,7 +242,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 23,
         "fields": {
             "name": "Galactic Slush",
@@ -253,7 +253,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 24,
         "fields": {
             "name": "Alien Popcorn Bucket",
@@ -264,7 +264,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 25,
         "fields": {
             "name": "Starlight Burger",
@@ -275,7 +275,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 26,
         "fields": {
             "name": "BBQ Pulled Pork Sandwich",
@@ -286,7 +286,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 27,
         "fields": {
             "name": "Galactic Salad",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 28,
         "fields": {
             "name": "Pooh's Breakfast Lasagna",
@@ -308,7 +308,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 29,
         "fields": {
             "name": "Tigger's Bouncy Waffles",
@@ -319,7 +319,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 30,
         "fields": {
             "name": "Eeyore's Comforting Omelette",
@@ -330,7 +330,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 31,
         "fields": {
             "name": "Frontier Feast Platter",
@@ -341,7 +341,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 32,
         "fields": {
             "name": "Stage Door Sandwich",
@@ -352,7 +352,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 33,
         "fields": {
             "name": "Golden Horseshoe Salad",
@@ -363,7 +363,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 34,
         "fields": {
             "name": "Loaded Buffalo Macaroni & Cheese",
@@ -374,7 +374,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 35,
         "fields": {
             "name": "Pot Roast Macaroni & Cheese",
@@ -385,7 +385,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 36,
         "fields": {
             "name": "Brat & Tots",
@@ -396,7 +396,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 37,
         "fields": {
             "name": "Gaston's Cinnamon Roll",
@@ -407,7 +407,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 38,
         "fields": {
             "name": "LeFou's Brew",
@@ -418,7 +418,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 39,
         "fields": {
             "name": "Roasted Pork Shank",
@@ -429,7 +429,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 40,
         "fields": {
             "name": "Chicken Nuggets",
@@ -440,7 +440,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 41,
         "fields": {
             "name": "Slue Foot Sandwich",
@@ -451,7 +451,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 42,
         "fields": {
             "name": "Fresh-Cut Fries",
@@ -462,7 +462,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 43,
         "fields": {
             "name": "Curried Vegetable Crew Stew",
@@ -473,7 +473,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 44,
         "fields": {
             "name": "Jungle Navigation Char Siu Pork",
@@ -484,7 +484,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 45,
         "fields": {
             "name": "Tropical Banana-Cacao Tart",
@@ -495,7 +495,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 46,
         "fields": {
             "name": "Pilgrims' Feast",
@@ -506,7 +506,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 47,
         "fields": {
             "name": "Freedom Pasta",
@@ -517,7 +517,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 48,
         "fields": {
             "name": "Colonial Chocolate Cake",
@@ -528,7 +528,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 49,
         "fields": {
             "name": "Rocket Dog",
@@ -539,7 +539,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 50,
         "fields": {
             "name": "Galactic Pretzel",
@@ -550,7 +550,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 51,
         "fields": {
             "name": "Moon Cheese",
@@ -561,7 +561,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 52,
         "fields": {
             "name": "Cinnamon Swirl Bun",
@@ -572,7 +572,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 53,
         "fields": {
             "name": "Mickey Mouse-shaped Waffle",
@@ -583,7 +583,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 54,
         "fields": {
             "name": "Espresso Macchiato",
@@ -594,7 +594,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 55,
         "fields": {
             "name": "Fajita Platter",
@@ -605,7 +605,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 56,
         "fields": {
             "name": "Taco Trio",
@@ -616,7 +616,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 57,
         "fields": {
             "name": "Churro Bites",
@@ -627,7 +627,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 58,
         "fields": {
             "name": "Caprese Flatbread",
@@ -638,7 +638,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 59,
         "fields": {
             "name": "Geppetto's Supreme Pizza",
@@ -649,7 +649,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 60,
         "fields": {
             "name": "Gelato Sundae",
@@ -660,7 +660,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 61,
         "fields": {
             "name": "Ice Cream Sundae",
@@ -671,7 +671,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 62,
         "fields": {
             "name": "Waffle Cone",
@@ -682,7 +682,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 63,
         "fields": {
             "name": "Mickey's Kitchen Sink Sundae",
@@ -693,7 +693,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 64,
         "fields": {
             "name": "Plaza Club Sandwich",
@@ -704,7 +704,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 65,
         "fields": {
             "name": "Main Street Burger",
@@ -715,7 +715,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 66,
         "fields": {
             "name": "Ice Cream Sundae",
@@ -726,7 +726,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 67,
         "fields": {
             "name": "Mermaid's Twist Bread",
@@ -737,7 +737,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 68,
         "fields": {
             "name": "Seashell Salad",
@@ -748,7 +748,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 69,
         "fields": {
             "name": "Mermaid Donut",
@@ -759,7 +759,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 70,
         "fields": {
             "name": "Sweet and Spicy Chicken Waffle Sandwich",
@@ -770,7 +770,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 71,
         "fields": {
             "name": "Nutella and Fresh Fruit Waffle Sandwich",
@@ -781,7 +781,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 72,
         "fields": {
             "name": "Giant Mickey Mouse-shaped Waffle",
@@ -792,7 +792,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 73,
         "fields": {
             "name": "Peter Pan Float",
@@ -803,7 +803,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 74,
         "fields": {
             "name": "Rapunzel Sundae",
@@ -814,7 +814,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 75,
         "fields": {
             "name": "Mermaid Slush",
@@ -825,7 +825,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 76,
         "fields": {
             "name": "Orange Bird Citrus Swirl",
@@ -836,7 +836,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 77,
         "fields": {
             "name": "Dole Whip Orange Float",
@@ -847,7 +847,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 78,
         "fields": {
             "name": "Pot Stickers",
@@ -858,7 +858,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 79,
         "fields": {
             "name": "Space Burger",
@@ -869,7 +869,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 80,
         "fields": {
             "name": "Pasta Primevera",
@@ -880,7 +880,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 81,
         "fields": {
             "name": "Rocket Fuel Smoothie",
@@ -891,7 +891,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 82,
         "fields": {
             "name": "Spaghetti and Meatballs",
@@ -902,7 +902,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 83,
         "fields": {
             "name": "Chicken Parmesan",
@@ -913,7 +913,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 84,
         "fields": {
             "name": "Tiramisu",
@@ -924,7 +924,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 85,
         "fields": {
             "name": "Jerk Chicken Sandwich",
@@ -935,7 +935,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 86,
         "fields": {
             "name": "Vegetable Rice Bowl",
@@ -946,7 +946,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 87,
         "fields": {
             "name": "Pirate's Grog",
@@ -957,7 +957,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 85,
         "fields": {
             "name": "Jerk Chicken Sandwich",
@@ -968,7 +968,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 86,
         "fields": {
             "name": "Vegetable Rice Bowl",
@@ -979,7 +979,7 @@
         }
     },    
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 87,
         "fields": {
             "name": "Pirate's BBQ",
@@ -990,7 +990,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 88,
         "fields": {
             "name": "Turkey Leg",
@@ -1001,7 +1001,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 89,
         "fields": {
             "name": "Chili-Cheese Nachos",
@@ -1012,7 +1012,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 90,
         "fields": {
             "name": "Fruit Cup",
@@ -1023,7 +1023,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 88,
         "fields": {
             "name": "Turkey Leg",
@@ -1034,7 +1034,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 89,
         "fields": {
             "name": "Chili-Cheese Nachos",
@@ -1045,7 +1045,7 @@
         }
     },
     {
-        "model": "magicaldayapi.menu_items_model",
+        "model": "magicaldayapi.MenuItem",
         "pk": 90,
         "fields": {
             "name": "Fruit Cup",

@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 1,
         "fields": {
             "location": 36,
@@ -8,7 +8,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 2,
         "fields": {
             "location": 37,
@@ -16,7 +16,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 3,
         "fields": {
             "location": 38,
@@ -24,7 +24,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 4,
         "fields": {
             "location": 39,
@@ -32,7 +32,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 5,
         "fields": {
             "location": 40,
@@ -40,7 +40,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 6,
         "fields": {
             "location": 41,
@@ -48,7 +48,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 7,
         "fields": {
             "location": 42,
@@ -56,7 +56,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 8,
         "fields": {
             "location": 43,
@@ -64,7 +64,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 9,
         "fields": {
             "location": 44,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 10,
         "fields": {
             "location": 45,
@@ -80,7 +80,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 11,
         "fields": {
             "location": 46,
@@ -88,7 +88,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 12,
         "fields": {
             "location": 47,
@@ -96,7 +96,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 13,
         "fields": {
             "location": 48,
@@ -104,7 +104,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 14,
         "fields": {
             "location": 49,
@@ -112,7 +112,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 15,
         "fields": {
             "location": 50,
@@ -120,7 +120,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 16,
         "fields": {
             "location": 51,
@@ -128,7 +128,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 17,
         "fields": {
             "location": 52,
@@ -136,7 +136,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 18,
         "fields": {
             "location": 53,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 19,
         "fields": {
             "location": 54,
@@ -152,7 +152,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 20,
         "fields": {
             "location": 55,
@@ -160,7 +160,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 21,
         "fields": {
             "location": 56,
@@ -168,7 +168,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 22,
         "fields": {
             "location": 57,
@@ -176,7 +176,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 23,
         "fields": {
             "location": 58,
@@ -184,7 +184,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 24,
         "fields": {
             "location": 59,
@@ -192,7 +192,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 25,
         "fields": {
             "location": 60,
@@ -200,7 +200,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 26,
         "fields": {
             "location": 61,
@@ -208,7 +208,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 27,
         "fields": {
             "location": 62,
@@ -216,7 +216,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 28,
         "fields": {
             "location": 63,
@@ -224,7 +224,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 29,
         "fields": {
             "location": 64,
@@ -232,7 +232,7 @@
         }
     },
     {
-        "model": "magicaldayapi.restaurant_details_models",
+        "model": "magicaldayapi.RestaurantDetails",
         "pk": 30,
         "fields": {
             "location": 65,

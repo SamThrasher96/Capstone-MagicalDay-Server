@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 1,
         "fields": {
             "location": 38,
@@ -10,7 +10,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 2,
         "fields": {
             "location": 30,
@@ -20,7 +20,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 3,
         "fields": {
             "location": 27,
@@ -30,7 +30,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 4,
         "fields": {
             "location": 26,
@@ -40,7 +40,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 5,
         "fields": {
             "location": 25,
@@ -50,7 +50,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 6,
         "fields": {
             "location": 24,
@@ -60,7 +60,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 7,
         "fields": {
             "location": 23,
@@ -70,7 +70,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 8,
         "fields": {
             "location": 22,
@@ -80,7 +80,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 9,
         "fields": {
             "location": 22,
@@ -90,7 +90,7 @@
         }
     },
     {
-        "model": "magicaldayapi.reservation_model",
+        "model": "magicaldayapi.Reservation",
         "pk": 10,
         "fields": {
             "location": 22,

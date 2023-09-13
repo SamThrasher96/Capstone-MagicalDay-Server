@@ -1,6 +1,6 @@
 [
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 1,
         "fields": {
             "staff": 1,
@@ -10,7 +10,7 @@
         }
     }, 
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 2,
         "fields": {
             "staff": 2,
@@ -20,7 +20,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 3,
         "fields": {
             "staff": 3,
@@ -30,7 +30,7 @@
         }
     }, 
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 4,
         "fields": {
             "staff": 4,
@@ -40,7 +40,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 5,
         "fields": {
             "staff": 5,
@@ -50,7 +50,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 6,
         "fields": {
             "staff": 6,
@@ -60,7 +60,7 @@
         }
     },
     {
-        "model": "magicaldayapi.staff_shift_model",
+        "model": "magicaldayapi.StaffShift",
         "pk": 7,
         "fields": {
             "staff": 7,
