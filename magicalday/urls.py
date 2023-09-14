@@ -20,7 +20,7 @@ from django.conf.urls import include
 from rest_framework import routers
 from magicaldayapi.views import (register_user, login_user, GuestView, 
 LocationView, MenuItemView, ReservationView, RestaurantDetailsView, 
-RideDetailsView, ShowDetailsView )
+RideDetailsView, ShowDetailsView, StaffShiftView, StaffView )
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'guests', GuestView, 'guest')
@@ -30,6 +30,8 @@ router.register(r'reservations', ReservationView, 'reservation')
 router.register(r'restaurantdetails', RestaurantDetailsView, 'restaurantdetail')
 router.register(r'ridedetails', RideDetailsView, 'ridedetail')
 router.register(r'showdetails', ShowDetailsView, 'showdetail')
+router.register(r'staffshifts', StaffShiftView, 'staffshift')
+router.register(r'staff', StaffView, 'staff')
 
 urlpatterns = [
     path('register', register_user),

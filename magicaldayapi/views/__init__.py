@@ -6,3 +6,5 @@ from .reservation_view import ReservationView
 from .restaurant_details_view import RestaurantDetailsView   
 from .ride_details_view import RideDetailsView
 from .show_details_view import ShowDetailsView
+from .staff_shifts_view import StaffShiftView
+from .staff_view import StaffView
