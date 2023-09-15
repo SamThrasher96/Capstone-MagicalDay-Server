@@ -6,7 +6,7 @@ from rest_framework import status
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
-from magicaldayapi.models import Guest, Staff
+from magicaldayapi.models import Guest, Location
 
 @api_view(['POST'])
 @permission_classes([AllowAny])
@@ -16,10 +16,10 @@ def login_user(request):
     Method arguments:
         request -- The full HTTP request object
     '''
-    email = request.data['email']
+    username = request.data['username']
     password = request.data['password']
 
-    authenticated_user = authenticate(username=email, password=password)
+    authenticated_user = authenticate(username=username, password=password)
     if authenticated_user is not None:
         token = Token.objects.get(user=authenticated_user)
         user = Guest.objects.get(user_id=authenticated_user)
@@ -51,10 +51,11 @@ def register_user(request):
 
     
     user = User.objects.create_user(
-        username=email,
-        password=password,
         first_name=first_name,
         last_name=last_name,
+        email=email,
+        username=email,
+        password=password,
         is_staff=False
     )
     guest = Guest.objects.create(

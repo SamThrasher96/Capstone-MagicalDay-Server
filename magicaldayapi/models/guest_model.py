@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 class Guest(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     profile_picture = models.CharField(max_length=500)
-    height = models.JSONField() 
+    height = models.JSONField()
     
     @property
     def full_name(self):

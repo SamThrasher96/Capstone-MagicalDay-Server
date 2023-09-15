@@ -35,6 +35,7 @@ class RestaurantDetailsView(ViewSet):
         restaurant_details.delete()
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
+
 class RestaurantDetailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = RestaurantDetails
