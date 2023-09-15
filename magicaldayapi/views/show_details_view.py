@@ -42,5 +42,5 @@ class ShowDetailsView(ViewSet):
 class ShowDetailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = ShowDetails
-        fields = ('id', 'location', 'duration', 'cast_size', 'running')
+        fields = ('id', 'location', 'duration', 'cast_size', 'running', 'show_name', 'show_image')
         depth = 1
