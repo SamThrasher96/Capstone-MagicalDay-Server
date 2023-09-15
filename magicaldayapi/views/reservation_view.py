@@ -6,7 +6,11 @@ from magicaldayapi.models import Reservation, Guest, location_model
 
 class ReservationView(ViewSet):
     def list(self, request):
+        reservations = []
         reservations = Reservation.objects.all()
+        if "user" in request.query_params:
+            guest = Guest.objects.get(user=request.auth.user)
+            reservations  = reservations.filter(guest=guest)
         serializer = ReservationSerializer(
             reservations, many=True, context={'request': request})
         return Response(serializer.data, status=status.HTTP_200_OK)
@@ -43,5 +47,5 @@ class ReservationView(ViewSet):
 class ReservationSerializer(serializers.ModelSerializer):
     class Meta:
         model = Reservation
-        fields = ('id', 'location', 'guest', 'date', 'time')
+        fields = ('id', 'location', 'guest', 'date', 'time', 'reservation_location_name', 'reservation_image')
         depth = 1
