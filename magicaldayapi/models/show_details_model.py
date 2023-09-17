@@ -13,3 +13,15 @@ class ShowDetails(models.Model):
     @property
     def show_image(self):
         return self.location.image
+
+    @property
+    def show_description(self):
+        return self.location.description
+
+    @property
+    def show_open(self):
+        return self.location.opening_time 
+
+    @property
+    def show_close(self):
+        return self.location.closing_time
