@@ -4,14 +4,20 @@ from rest_framework.response import Response
 from rest_framework import serializers, status
 from magicaldayapi.models import Guest
 from django.contrib.auth.models import User
+from rest_framework.authtoken.models import Token
 
 class GuestView(ViewSet):
     def list(self, request):
         guests = Guest.objects.all()
+        token = request.query_params.get("token", None)
+        if token:
+            user = Token.objects.get(key=token).user
+            guests = [Guest.objects.get(user=user)]  # Wrap the single object in a list
         serializer = GuestSerializer(
             guests, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
-    
+
+
     def retrieve(self, request, pk=None):
         guests = Guest.objects.get(pk=pk)
         serialized = GuestSerializer(guests, context={'request': request})
@@ -36,5 +42,5 @@ class GuestView(ViewSet):
 class GuestSerializer(serializers.ModelSerializer):
     class Meta:
         model = Guest
-        fields = ('id', 'user', 'profile_picture', 'height')
+        fields = ('id', 'user', 'profile_picture', 'height', 'full_name')
         depth = 1
