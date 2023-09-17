@@ -45,5 +45,5 @@ class RideDetailsView(ViewSet):
 class RideDetailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = RideDetails
-        fields = ('id', 'operating', 'height_requirement', 'duration', 'location', 'expected_wait_time', 'ride_name', 'ride_image')
+        fields = ('id', 'operating', 'height_requirement', 'duration', 'location', 'expected_wait_time', 'ride_name', 'ride_image', 'ride_description', 'ride_open', 'ride_close')
         depth = 1

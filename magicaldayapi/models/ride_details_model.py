@@ -14,3 +14,15 @@ class RideDetails(models.Model):
     @property
     def ride_image(self):
         return self.location.image
+
+    @property
+    def ride_description(self):
+        return self.location.description
+
+    @property
+    def ride_open(self):
+        return self.location.opening_time 
+
+    @property
+    def ride_close(self):
+        return self.location.closing_time
