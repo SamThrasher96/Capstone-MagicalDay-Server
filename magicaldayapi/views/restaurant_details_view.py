@@ -39,5 +39,5 @@ class RestaurantDetailsView(ViewSet):
 class RestaurantDetailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = RestaurantDetails
-        fields = ('id', 'location', 'allergy_friendly', 'restaurant_name', 'restaurant_image')
+        fields = ('id', 'location', 'allergy_friendly', 'restaurant_name', 'restaurant_image', 'restaurant_description', 'restaurant_open', 'restaurant_close')
         depth = 1
