@@ -2,7 +2,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from magicaldayapi.models import Reservation, Guest, location_model
+from magicaldayapi.models import Reservation, Guest, Location
 
 class ReservationView(ViewSet):
     def list(self, request):
@@ -23,7 +23,7 @@ class ReservationView(ViewSet):
 
     def create(self, request):
         new_reservation = Reservation()
-        new_reservation.location = location_model.Location.objects.get(pk=request.data["location"])
+        new_reservation.location = Location.objects.get(pk=request.data["location"])
         new_reservation.guest = Guest.objects.get(user=request.auth.user)
         new_reservation.date = request.data["date"]
         new_reservation.time = request.data["time"]
@@ -32,7 +32,7 @@ class ReservationView(ViewSet):
 
     def update(self, request, pk=None):
         reservation = Reservation.objects.get(pk=pk)
-        reservation.location = location_model.Location.objects.get(pk=request.data["location"])
+        reservation.location = Location.objects.get(pk=request.data["location"])
         reservation.guest = Guest.objects.get(user=request.auth.user)
         reservation.date = request.data["date"]
         reservation.time = request.data["time"]

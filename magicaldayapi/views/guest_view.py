@@ -42,5 +42,5 @@ class GuestView(ViewSet):
 class GuestSerializer(serializers.ModelSerializer):
     class Meta:
         model = Guest
-        fields = ('id', 'user', 'profile_picture', 'height', 'full_name')
+        fields = ('id', 'user', 'profile_picture', 'height', 'full_name', 'email')
         depth = 1
