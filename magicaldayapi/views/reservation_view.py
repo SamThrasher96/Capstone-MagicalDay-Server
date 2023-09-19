@@ -6,14 +6,19 @@ from magicaldayapi.models import Reservation, Guest, Location
 
 class ReservationView(ViewSet):
     def list(self, request):
-        reservations = []
         reservations = Reservation.objects.all()
+        
         if "user" in request.query_params:
             guest = Guest.objects.get(user=request.auth.user)
-            reservations  = reservations.filter(guest=guest)
+            reservations = reservations.filter(guest=guest)
+        
+        reservations = reservations.order_by('date', 'time')
+        
         serializer = ReservationSerializer(
             reservations, many=True, context={'request': request})
+        
         return Response(serializer.data, status=status.HTTP_200_OK)
+
 
     def retrieve(self, request, pk=None):
         reservation = Reservation.objects.get(pk=pk)

@@ -12,7 +12,7 @@ class GuestView(ViewSet):
         token = request.query_params.get("token", None)
         if token:
             user = Token.objects.get(key=token).user
-            guests = [Guest.objects.get(user=user)]  # Wrap the single object in a list
+            guests = [Guest.objects.get(user=user)]
         serializer = GuestSerializer(
             guests, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
@@ -25,11 +25,9 @@ class GuestView(ViewSet):
 
     def update(self, request, pk=None):
         guests = Guest.objects.get(pk=pk)
-        user = User.objects.get(pk=pk)
-        guests.user = user
         guests.profile_picture = request.data["profile_picture"]
-        guests.height = request.data["height"]
-
+        guests.user.username = request.data["username"]
+        guests.user.save()
         guests.save()
 
         return Response(None, status=status.HTTP_204_NO_CONTENT)
