@@ -6,6 +6,9 @@ from magicaldayapi.models import MenuItem, Location
 class MenuItemView(ViewSet):
     def list(self, request):
         menu_items = MenuItem.objects.all()
+        location = request.query_params.get('location', None)
+        if location:
+            menu_items = menu_items.filter(location=location)
         serializer = MenuItemSerializer(
             menu_items, many=True, context={'request': request})
         return Response(serializer.data, status=status.HTTP_200_OK)
